@@ -1,10 +1,10 @@
 # Installation
 
 1. Ouvre le dépôt GitHub `Leo0957/Leo0957`.
-2. Clique sur **Add file → Upload files**.
-3. Glisse `README.md`, `leo0957-banner.svg` et `source-photo.jpg` à la racine du dépôt.
-4. Si GitHub te demande de remplacer des fichiers existants, accepte pour `README.md` et `source-photo.jpg`.
-5. Clique sur **Commit changes**.
+2. Supprime l’ancien `profile-dashboard.svg` si tu ne l’utilises plus.
+3. Envoie `leo0957-mono-banner.svg` à la racine du dépôt.
+4. Remplace le contenu de `README.md` par celui fourni dans ce dossier.
+5. Valide avec **Commit changes**.
 6. Recharge `https://github.com/Leo0957`.
 
-Le nouveau README est volontairement minimaliste, comme le profil de Deno : une grande bannière personnalisée suivie d'une courte présentation.
+Le rendu est volontairement monochrome, minimal et expérimental, inspiré du style du profil de Denoroy737 sans le copier à l’identique.
