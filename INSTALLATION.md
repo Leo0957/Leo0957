@@ -1,17 +1,10 @@
-# Installation du profil GitHub Leo0957
+# Installation
 
-## 1. Créer le dépôt spécial
+1. Ouvre le dépôt GitHub `Leo0957/Leo0957`.
+2. Clique sur **Add file → Upload files**.
+3. Glisse `README.md`, `leo0957-banner.svg` et `source-photo.jpg` à la racine du dépôt.
+4. Si GitHub te demande de remplacer des fichiers existants, accepte pour `README.md` et `source-photo.jpg`.
+5. Clique sur **Commit changes**.
+6. Recharge `https://github.com/Leo0957`.
 
-Sur GitHub, crée un dépôt **public** nommé exactement `Leo0957`. Ne coche pas « Add a README file ».
-
-## 2. Envoyer les fichiers
-
-Dans le dépôt, clique sur **Add file → Upload files**, puis dépose **tout le contenu de ce dossier**. Le fichier `README.md` et `profile-dashboard.svg` doivent être directement à la racine du dépôt.
-
-## 3. Valider
-
-Clique sur **Commit changes**, puis ouvre ton profil : `https://github.com/Leo0957`. Le tableau de bord apparaîtra automatiquement dans la section de présentation.
-
-## Important
-
-Le rendu reprend la maquette sombre avec : photo à gauche, présentation, stack technique, terminal, projets et statistiques. Le nom affiché est uniquement **Léo**.
+Le nouveau README est volontairement minimaliste, comme le profil de Deno : une grande bannière personnalisée suivie d'une courte présentation.

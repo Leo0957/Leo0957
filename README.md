@@ -1,5 +1,6 @@
-<div align="center">
+![](leo0957-banner.svg)
 
-<img src="./profile-dashboard.svg" width="100%" alt="Profil GitHub de Léo" />
+## Hey, It's Léo here 👋
 
-</div>
+I like building useful products and turning ideas into real projects.  
+I work with web development, AI and automation.
