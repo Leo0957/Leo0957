@@ -1,10 +1,17 @@
-# Installation du profil GitHub
+# Installation du profil GitHub Leo0957
 
-1. Sur GitHub, crée un dépôt **public** nommé exactement `Leo0957`.
-2. Coche « Add a README file » ou laisse le dépôt vide.
-3. Envoie tous les fichiers de ce dossier à la racine du dépôt.
-4. Va dans **Settings → Actions → General → Workflow permissions**.
-5. Sélectionne **Read and write permissions**, puis enregistre.
-6. Va dans l'onglet **Actions**, ouvre **Update profile art**, puis clique sur **Run workflow**.
+## 1. Créer le dépôt spécial
 
-Le README apparaîtra automatiquement en haut de ton profil GitHub. Le portrait et la carte sont animés, et le graphe de contributions se mettra à jour chaque jour.
+Sur GitHub, crée un dépôt **public** nommé exactement `Leo0957`. Ne coche pas « Add a README file ».
+
+## 2. Envoyer les fichiers
+
+Dans le dépôt, clique sur **Add file → Upload files**, puis dépose **tout le contenu de ce dossier**. Le fichier `README.md` et `profile-dashboard.svg` doivent être directement à la racine du dépôt.
+
+## 3. Valider
+
+Clique sur **Commit changes**, puis ouvre ton profil : `https://github.com/Leo0957`. Le tableau de bord apparaîtra automatiquement dans la section de présentation.
+
+## Important
+
+Le rendu reprend la maquette sombre avec : photo à gauche, présentation, stack technique, terminal, projets et statistiques. Le nom affiché est uniquement **Léo**.
