@@ -4,10 +4,10 @@
 
 # Hey, I'm Léo 👋
 
-**Developer · Web · AI · Automation**
+### Developer · Web · AI · Automation
 
-I like building useful things and turning ideas into real products.  
-I'm especially interested in web development, artificial intelligence, automation and creating tools that solve real problems.
+I like building useful things and turning ideas into real projects.  
+I'm interested in web development, artificial intelligence, automation and cybersecurity.
 
 </div>
 
@@ -18,13 +18,14 @@ I'm especially interested in web development, artificial intelligence, automatio
 - 🎓 BTS SIO — SLAM student
 - 💻 Building web applications and useful tools
 - 🤖 Exploring AI and automation
-- 🧠 Always learning and experimenting with new technologies
-- 🚀 From idea → development → deployment
-- 🇫🇷 France
+- 🔐 Learning more about cybersecurity
+- 🧠 Always experimenting with new technologies
+- 🚀 I enjoy turning ideas into real, usable products
+- 🇫🇷 Based in France
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -36,9 +37,12 @@ I'm especially interested in web development, artificial intelligence, automatio
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
@@ -48,52 +52,44 @@ I'm especially interested in web development, artificial intelligence, automatio
 
 ### 🪙 Coinly
 
-A modern conversion platform designed to bring multiple types of conversions into one simple interface.
+A modern conversion platform designed to bring multiple conversion tools together in one simple interface.
 
-`React` `TypeScript` `Cloudflare`
+It includes currency, measurements, computing units, gaming currencies and other useful conversion tools.
+
+`React` · `TypeScript` · `Vite` · `Cloudflare`
 
 ---
 
 ### 📊 Latice
 
-A multi-platform social media analytics dashboard for monitoring content performance and engagement.
+A social media analytics dashboard designed to monitor content performance across multiple platforms.
 
-`React` `TypeScript` `Node.js` `SQLite`
+Features include analytics, engagement metrics, audience tracking, charts and data exports.
+
+`React` · `TypeScript` · `Node.js` · `SQLite`
 
 ---
 
 ### 🌍 Orbisol
 
-An application combining world time, weather and city tracking in a simple interface.
+An application combining world time, weather and city tracking in a clean and simple interface.
 
-`iOS` `Weather` `World Clock`
+`iOS` · `Weather` · `World Clock`
+
+---
+
+### ⏱ Momento
+
+A browser extension designed to create and manage timestamps and markers while watching YouTube videos.
+
+`Browser Extension` · `JavaScript` · `Productivity`
 
 ---
 
 ## 🔭 Currently
 
-- Building new web projects
-- Improving my full-stack development skills
-- Learning more about cybersecurity
-- Experimenting with AI-powered development tools
-- Turning small ideas into real products
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-### Build. Learn. Ship.
-
-</div>
+```text
+Building       → Web applications & useful tools
+Learning       → Cybersecurity & software development
+Exploring      → AI, automation & developer tools
+Studying       → BTS SIO — SLAM
